@@ -8,11 +8,11 @@ The tabular dataset consists of listings of all the movies and TV shows availabl
 
 # Libraries Used
 
-Python
-Numpy
-Pandas
-Matplotlib
-Seaborn
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
 
 # Business Insights
 
